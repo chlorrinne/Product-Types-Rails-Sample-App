@@ -21,7 +21,6 @@
 
 ![alt tag](https://raw.githubusercontent.com/chlorrinne/Product-Types-Rails-Sample-App/master/images/Add New Product Type.png)
 
-
 ## Create New Product Type:
 
 ![alt tag](https://raw.githubusercontent.com/chlorrinne/Product-Types-Rails-Sample-App/master/images/Add New Product.png)
