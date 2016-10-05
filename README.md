@@ -8,7 +8,6 @@
 
 ![alt tag](https://raw.githubusercontent.com/chlorrinne/Product-Types-Rails-Sample-App/master/images/Welcome.png)
 
-
 ## Product Type Table:
 
 ![alt tag](https://raw.githubusercontent.com/chlorrinne/Product-Types-Rails-Sample-App/master/images/Product Type Table.png)
