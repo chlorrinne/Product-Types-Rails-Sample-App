@@ -5,4 +5,24 @@ Requirements:
 4. Ability to edit a product.
 
 Welcome Screen:
+
 ![alt tag](https://raw.githubusercontent.com/chlorrinne/Product-Types-Rails-Sample-App/master/images/Welcome.png)
+
+
+Product Type Table:
+
+![alt tag](https://raw.githubusercontent.com/chlorrinne/Product-Types-Rails-Sample-App/master/images/Product Type Table.png)
+
+Product Table:
+
+![alt tag](https://raw.githubusercontent.com/chlorrinne/Product-Types-Rails-Sample-App/master/images/Product Table.png)
+
+Create New Product Type:
+
+![alt tag](https://raw.githubusercontent.com/chlorrinne/Product-Types-Rails-Sample-App/master/images/Add New Product Type.png)
+
+
+Create New Product Type:
+
+![alt tag](https://raw.githubusercontent.com/chlorrinne/Product-Types-Rails-Sample-App/master/images/Add New Product.png)
+
