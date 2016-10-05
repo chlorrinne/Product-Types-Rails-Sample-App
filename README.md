@@ -1,6 +1,5 @@
-# Product Types:
-Overview
-Simple excersize in Ruby.
+# Product Types
+Overview: Simple excersize in Ruby.
 
 Dependencies:
 
