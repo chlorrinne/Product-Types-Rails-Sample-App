@@ -5,5 +5,4 @@ Requirements:
 4. Ability to edit a product.
 
 Welcome Screen:
-![alt tag](https://raw.githubusercontent.com/chlorrinne/Product-Types-Rails-Sample-App
-/master/images/Welcome.png
+![alt tag](https://raw.githubusercontent.com/chlorrinne/Product-Types-Rails-Sample-App/master/images/Welcome.png)
