@@ -1,5 +1,5 @@
 # Product Types
-Overview: Simple excersize in Ruby.
+Overview: Simple exercise in Ruby.
 
 Dependencies:
 
